@@ -4,16 +4,13 @@ I tried to make a copy of the popular game Geometry Dash and remake its first le
 
 Controls are:
 
-[Space] for jumping
-
-[Esc] or unfocusing the window to pause
-
-[E] to enter Editor mode
-
-[G] to enter Game mode
-
-[Q], [W], [E], and keys on first row to cycle through available blocks, obstacles, and tools
-Right click in Editor mode to place temporary start point for testing purposes
+ - [Space] for jumping 
+ - [Esc] or unfocusing the window to pause 
+ - [E] to enter Editor mode 
+ - [G] to enter Game mode 
+ - [Q], [W], [E], and keys on first row to cycle through available blocks, obstacles, and tools
+ - Right click in Editor mode to place temporary start point for testing
+   purposes
 
 Screenshots below:
 ![Opening menu](https://raw.githubusercontent.com/sarahayu/music-rider-SFML/master/screenshots/opening-menu.png)
