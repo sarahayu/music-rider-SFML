@@ -12,6 +12,10 @@ Controls are:
  - Right click in Editor mode to place temporary start point for testing
    purposes
 
+## Sources
+
+ - SFML Game Development by Jan Haller, Henrik Vogelius Hansson, and Artur Moreira
+
 Screenshots below:
 ![Opening menu](https://raw.githubusercontent.com/sarahayu/music-rider-SFML/master/screenshots/opening-menu.png)
 
