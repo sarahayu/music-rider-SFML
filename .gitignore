@@ -19,7 +19,7 @@ mono_crash.*
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
+[Rr]elease*/
 [Rr]eleases/
 x64/
 x86/
@@ -91,6 +91,9 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.sln
+*.vcxproj
+*.filters
 
 # Chutzpah Test files
 _Chutzpah*
@@ -348,4 +351,5 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
-[Dd]esktop.ini
+*.ini
+ignore-files/

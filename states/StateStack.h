@@ -1,6 +1,5 @@
 #pragma once
 #include <functional>
-#include <vector>
 #include "State.h"
 
 class StateStack
@@ -48,3 +47,4 @@ inline void StateStack::registerState(const States::ID & id)
 		return std::make_unique<T>(*this, m_context);
 	};
 }
+
